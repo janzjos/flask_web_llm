@@ -1,0 +1,12 @@
+numpy
+pandas
+gunicorn
+python-dotenv
+requests
+langchain
+black
+openai
+install
+google-search-results
+tweepy
+flask
